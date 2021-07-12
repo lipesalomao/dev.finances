@@ -3,7 +3,5 @@ Projeto front-end web simples, desenvolvido em uma das maratonas da Rocketseat.
 
 </n>Trata-se de uma calculadora de finanças pessoais desenvolvida em Javascript com localstorage para fins de prática front-end.
 
-Veja o resultado em: 
-<p>
-https://devfinances-rocketseat.netlify.app/
-</p>
+<p>Veja o resultado clicando <a href="https://devfinances-rocketseat.netlify.app" target="_blank"><strong> aqui</strong>. </a></p>
+
